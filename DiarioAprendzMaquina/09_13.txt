@@ -1,0 +1,13 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 13.09
+
+Desenvolvimento e leituras durante as semanas que antecederam, aproveitando as palestras do mini curso de machine learning.
+Apresentação das novas alterações para os professores.
+Início da regressão linear por Ana Brandão e Ana Loponi.

@@ -1,0 +1,20 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 30.08
+
+
+Foi refeito o tópico 4 de acordo com a avaliação dos professores.
+
+Foi removida a coluna data devido ao seu formato "mm/aaaa", para melhor uso da matriz de correlação, já que todos os dados do dataset já haviam sido
+normalizados.
+Anteriomente, o grupo havia ponderado maneiras de adaptar a coluna para não a descartar, maneiras de normalizar o formaro data, considerando importante
+saber quando os casos ocorriam, contudo, pela dificuldade, decidiu-se pela eliminação e por trabalhar somente com os identificadores.
+Início da construção da matriz de correlação entre os dados.
+Média e desvio padraão por mês inseridos por Ana Brandão.
+
