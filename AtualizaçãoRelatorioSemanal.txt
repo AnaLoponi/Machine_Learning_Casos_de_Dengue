@@ -1,0 +1,21 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Relatório da última modificação, referente à 09/09.
+
+O uso de datasets e normalização para esses dados já havia sido feito, contudo faltava o mesmo para a coluna datas, que foi a única coluna que não sofreu 
+normalização por mínimos e máximos devido ao seu formato.
+
+Usando pandas, recursão e listas de valores, isso foi corrigido. O programa foi modificado para calcular a média e o desvio padrão a partir da transformação 
+do formato das datas de mm/aa para um número que representa a quantidade de meses passados a partir do mês do primeiro caso notificado no dataset.
+A coluna data antiga foi substituída pela nova.
+Como essa parte era uma continuação da normalização, a escrita do código novo foi feita por Ana e Ana e a discussão de como haveria de ser feita foi por 
+todos os integrantes do grupo, incluindo Heitor e Lorraine que sugeriram modelos e formatos para não perder o dado data.
+
+O principal gráfico que estamos trabalhando ainda é o de casos confirmados em relação ao tempo, não tendo sido feito ainda no modelo de barras que ainda é
+nossa intenção.
