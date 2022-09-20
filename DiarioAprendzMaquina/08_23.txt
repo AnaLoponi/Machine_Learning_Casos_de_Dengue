@@ -1,0 +1,13 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 23.08
+
+Desenvolvimento durante a semana, melhoria do algoritmo e do repositório para a apresentação em sala.
+Foi feito o detalhamento dos processos que passaram pela criação do algoritmo, tal como comentários e gráficos.
+Apresentação para os professores e avaliações do grupo e individuais no moodle.
