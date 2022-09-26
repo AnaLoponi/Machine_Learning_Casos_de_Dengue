@@ -43,7 +43,7 @@
 </details>
 
 <details><summary> DiarioAprendzMaquina </summary>
-<p align = "justify"> Dataset
+<p align = "justify"> Diário de bordo
 <br> - 08_02
 <br> - 08_09
 <br> - 08_16
