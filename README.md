@@ -26,18 +26,30 @@
 
 <details><summary> notebook_dengue </summary> 
 <p align = "justify"> Dados Coletados 
-<br> Tratamento dos Dados
-<br> Normalização
-<br> Análise dos Dados
-<br> Matriz Covariância
-<br> Gráficos
+<br> - Tratamento dos Dados
+<br> - Normalização
+<br> - Análise dos Dados
+<br> - Matriz Covariância
+<br> - Gráficos
 </p>
 </details>
 
 <details><summary> dataset_dengue </summary>
 <p align = "justify"> Dataset
-<br> Data Mensal entre os anos de 1998 à 2014
-<br> Número de Casos Confirmados 
-<br> Temperatura Média, Mínima e Máxima
+<br> - Data Mensal entre os anos de 1998 à 2014
+<br> - Número de Casos Confirmados 
+<br> - Temperatura Média, Mínima e Máxima
+</p>
+</details>
+
+<details><summary> DiarioAprendzMaquina </summary>
+<p align = "justify"> Dataset
+<br> - 08_02
+<br> - 08_09
+<br> - 08_16
+<br> - 08_23
+<br> - 08_30
+<br> - 09_13
+<br> - 09_20
 </p>
 </details>
