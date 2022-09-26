@@ -31,6 +31,12 @@
 <br> - Análise dos Dados
 <br> - Matriz Covariância
 <br> - Gráficos
+<br> - Treino, teste e baseline
+<br> - K vizinhos mais próximos
+<br> - Regressão linear
+<br> - Árvore de decisão
+<br> - Floresta aleatória
+<br> - Classificação
 </p>
 </details>
 
