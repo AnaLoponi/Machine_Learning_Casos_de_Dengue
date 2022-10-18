@@ -1,0 +1,21 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 20.09
+
+Implementação do algoritmo de regressão linear. Feito por Heitor.
+Normalização de dados. Feito por Ana Brandão e Ana Loponi.
+Implementação do algoritmo KNN. Feito por Ana Brandão.
+Definição dos hiperparametros, das parcela de dados e da semente aleatória. Feito em grupo.
+Documentação do base line. Feito por Ana Loponi.
+
+Implementação dos algorimos da árvore aleatória, da floresta aleatória e da classificação. Feito por Ana Brandão e Heitor.
+Alteração do readme no github e atualização dos relatórios diários. Feito por Lorraine.
+Perfumaria da documentação do código. Feito por Ana Loponi.
+
+Tentativa de utilização da matriz de confusão com material externo (internet). Feito em grupo.

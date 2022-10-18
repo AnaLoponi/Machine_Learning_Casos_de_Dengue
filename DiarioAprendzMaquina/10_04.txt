@@ -1,0 +1,25 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 04.10
+
+Foi incluído ao algoritmo a análise de componente principal, transformação PCA (Ana Brandão)
+Foram incluídos gráficos referentes à PCA (Ana Brandão)
+Os slides para apresentação foram criados e estão em etapa inicial, de escolha de design
+(Ana Brandão)
+
+Foi incluída e resolvidacom sucesso a matriz de confusão, pertencente ao bloco 2, que anteriomente
+havia apresentado erros (Ana Loponi)
+
+Foram justificados os resultados da PCA, considerando o peso das features e analisando a variância
+obtidos pela Ana Brandão (Lorraine e Heitor)
+
+Foram acessados e estudados os materiais disponibilizados pelos professores, com ênfase nos vídeos
+(Lorraine e Heitor)
+
+Foram atualizados os diários de bordo no GitHub (Lorraine e Ana Loponi)
