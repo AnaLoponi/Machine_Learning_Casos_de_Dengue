@@ -1,0 +1,17 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 25.10
+
+No dia supramencionado foi incluído ao código  o algoritmo para detecção de valores anônalos, implementado por de maneira cooperativa pelo grupo todo.
+
+Houve continuação nos slides para a aprensentação (Ana Brandão)
+
+Foram adiconadas as justificativas e interpratação do algorotímo K-means (Ana Loponi)
+
+Foram atualizados os diários de bordo no GitHub (Heitor e Lorraine)
