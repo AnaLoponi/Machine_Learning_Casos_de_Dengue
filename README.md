@@ -22,19 +22,21 @@
   <li> Lorraine Cristina Silva Casseano </li>
 </ul>
 
-<h3 align = "center"> Guia do Repositório </h3>
+<h3 align = "center"> Guia do Repositório: </h3>
 
 <h5 align = "center"> Blocos de Desenvolvimento </h5>
 
 <details><summary> Análise de Dados - Bloco 1 </summary> 
 <p align = "justify"> Coleta de Dados
-  <a href="#Análise de Dados.ipynb">Bloco 1</a>
+  <a href="#[Análise de Dados.ipynb](https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/An%C3%A1lise%20de%20Dados.ipynb)">Bloco 1</a>
 <br> - Breve descrição sobre o projeto, motivação e objetivos;
 <br> - Análise Exploratória do Dados;
 <br> - Métodos de normalização e tratamento do Dataset original;
 <br> - Ferramentas Estatísticas: Matriz de Correlação;
 <br> - Gráficos de Análise;
 <br> - Classificação e Categorização.
+</p>
+</details>
   
 <details><summary> Modelos de Treinamento 1- Bloco 2 </summary> 
 <p align = "justify"> Interpretação e Treino dos Dados
@@ -50,6 +52,8 @@
 <br> - Dados Categóricos;
 <br> - Matriz de Confunsão;
 <br> - Avaliação de Hiperparâmetros.
+</p>
+</details>
   
 <details><summary> Modelos de Treinamento 2 - Bloco 3 </summary> 
 <p align = "justify"> Interpretação e Treino dos Dados
@@ -63,6 +67,8 @@
 <br> - WSS (Within-Cluster-Sum of Squared Errors);
 <br> - LOF (Algoritmo Local Outlier Factor);
 <br> - IF (Algoritmo Isolation Forest).
+</p>
+</details>
 
 <details><summary> Validação Cruzada - Bloco 4 </summary> 
 <p align = "justify"> Melhores Técnicas usadas no Dataset
@@ -70,7 +76,6 @@
 <br> - Validação Cruzada;
 <br> - Árvore de Decisão;
 <br> - Modelo K-NN.
-
 </p>
 </details>
   
