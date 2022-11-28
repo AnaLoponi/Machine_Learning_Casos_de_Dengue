@@ -93,9 +93,7 @@
 <details><summary> dataset_categorico </summary>
 <p align = "justify"> Dataset Categórico
   <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/dataset_dengue_categorico.xlsx"> Aqui! </a>
-<br> - Data Mensal entre os anos de 1998 à 2014
-<br> - Número de Casos Confirmados 
-<br> - Temperatura Média, Mínima e Máxima
+<br> - A categorização, é uma alteração no dataset feita internamente, porém necessária para outros processamentos, assim para o processo de desenvolvimento, este ficará separado por didática. No entanto, ao executar o código do Bloco 1 no seu computador, tal dataset é gerado automaticamente.
 </p>
 </details>
 
@@ -109,15 +107,15 @@
   <br> Bloco 1:
 <br> - 08_02
 <br> - 08_09
-  </br>
-  <br> Bloco 2:
 <br> - 08_16
 <br> - 08_23
+  </br>
+  <br> Bloco 2:
 <br> - 08_30
 <br> - 09_13
+<br> - 09_20
   </br> 
   <br> Bloco 3:
-<br> - 09_20
 <br> - 10_04
 <br> - 10_25
 <br> - 11_01
