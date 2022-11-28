@@ -1,0 +1,19 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 01.11
+
+Durante a semana que antecedeu tal data mencionada, o grupo se preparou para cumprir com todos os itens necessários para a conclusão do bloco 3.
+Contudo, alguns dos membros do grupo, presenciram problemas de saúde e com o desenvolvimento de outras matérias do semestre, de modo que o desenvolvimento do bloco 3
+obteve uma regressão comparada aos outros.
+
+Desse modo, no dia 01/11, durante a apresentação das atividades desenvolvidas neste bloco, recebemos o feedback dos professores à respeito do trabalho entregado.
+Assim, muitas coisas precisariam ser ajustadas, e para não atrasar o desenvolvimento do próximo e último bloco que estava por vir, os professores nos orietaram
+à desenvolver com muita cautela a última etapa e preparar uma boa apresentação para o final do semestre.
+
+Assim, Ana Brandão continou trabalhando nos slides para a apresentação futura, enquanto o grupo discutia sobre os melhores pontos para se apresentar.
