@@ -27,8 +27,8 @@
 <h5 align = "center"> Blocos de Desenvolvimento </h5>
 
 <details><summary> Análise de Dados - Bloco 1 </summary> 
-<p align = "justify"> Coleta de Dados
-  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/An%C3%A1lise%20de%20Dados.ipynb">Bloco 1</a>
+<p align = "justify"> Coleta de Dados:
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/An%C3%A1lise%20de%20Dados.ipynb"> Bloco 1 </a>
 <br> - Breve descrição sobre o projeto, motivação e objetivos;
 <br> - Análise Exploratória do Dados;
 <br> - Métodos de normalização e tratamento do Dataset original;
@@ -38,9 +38,9 @@
 </p>
 </details>
   
-<details><summary> Modelos de Treinamento 1- Bloco 2 </summary> 
+<details><summary> Modelos de Treinamento 1 - Bloco 2 </summary> 
 <p align = "justify"> Interpretação e Treino dos Dados
-  <a href="#Modelos de Treinamento .ipynb">Bloco 2</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Modelos%20de%20Treinamento%20.ipynb"> Bloco 2 </a>
 <br> - Treinando Modelos: Aprendizado Supervisionado;
 <br> - Definindo dataset de Treino e Teste;
 <br> - Baseline;
@@ -57,7 +57,7 @@
   
 <details><summary> Modelos de Treinamento 2 - Bloco 3 </summary> 
 <p align = "justify"> Interpretação e Treino dos Dados
-  <a href="#Modelos de Treinamento_2.ipynb">Bloco 3</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Modelos%20de%20Treinamento_2.ipynb"> Bloco 3 </a>
 <br> - Aprendizado Não-Supervisionado;
 <br> - Dataset de Treino, Teste e Hiperparâmetros;
 <br> - Transformação PCA;
@@ -72,7 +72,7 @@
 
 <details><summary> Validação Cruzada - Bloco 4 </summary> 
 <p align = "justify"> Melhores Técnicas usadas no Dataset
-  <a href="#Validação Cruzada.ipynb">Bloco 4</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Valida%C3%A7%C3%A3o%20Cruzada.ipynb">Bloco 4</a>
 <br> - Validação Cruzada;
 <br> - Árvore de Decisão;
 <br> - Modelo K-NN.
@@ -83,7 +83,7 @@
 
 <details><summary> dataset_dengue </summary>
 <p align = "justify"> Dataset
-  <a href="#dataset_dengue.xlsx">Dataset</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/dataset_dengue.xlsx"> Aqui! </a>
 <br> - Data Mensal entre os anos de 1998 à 2014
 <br> - Número de Casos Confirmados 
 <br> - Temperatura Média, Mínima e Máxima
@@ -92,7 +92,7 @@
   
 <details><summary> dataset_categorico </summary>
 <p align = "justify"> Dataset Categórico
-  <a href="#dataset_dengue_categorico.xlsx">Dataset Categórico</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/dataset_dengue_categorico.xlsx"> Aqui! </a>
 <br> - Data Mensal entre os anos de 1998 à 2014
 <br> - Número de Casos Confirmados 
 <br> - Temperatura Média, Mínima e Máxima
@@ -102,24 +102,27 @@
 <h5 align = "center"> Diários de Bordo </h5>
   
 <details><summary> DiarioAprendzMaquina </summary>
-    <a href="#DiarioAprendzMaquina">Diários de Bordo - Desenvolvimento Semestral</a>
-<p align = "justify"> Diário de bordo
+<p align = "justify"> Diários de Bordo:
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/tree/main/DiarioAprendzMaquina"> Desenvolvimento Semestral </a>
+
+  </br>
+  <br> Bloco 1:
 <br> - 08_02
 <br> - 08_09
-</br>
-  <br> Bloco 2: </br>
+  </br>
+  <br> Bloco 2:
 <br> - 08_16
 <br> - 08_23
 <br> - 08_30
 <br> - 09_13
-</br> 
-  <br> Bloco 3: </br>
+  </br> 
+  <br> Bloco 3:
 <br> - 09_20
 <br> - 10_04
 <br> - 10_25
 <br> - 11_01
-</br>
-  <br> Bloco 4: </br>
+  </br>
+  <br> Bloco 4:
 <br> - 11_08
 <br> - 11_22
 <br> - 11_29
