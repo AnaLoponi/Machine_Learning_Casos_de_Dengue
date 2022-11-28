@@ -11,44 +11,93 @@
 <p align = "justify"> Os dados de casos confirmados na cidade de Campinas/SP durante os anos de 1998 à 2014 foram coletados do SINAN (Sistema de Informação de Agravos de Notificação). Os dados pluviais foram colhidos do IAC (instituto Agrônomico de Campinas) e do Ciiagro (Centro Integrado de Informações Agrometeorológicas) </p>
 
 <h3 align = "center"> Desenvolvimento: </h3>
-<blockquote> Projeto da Disciplina de Aprendizado de Máquina na ILUM - Escola de Ciências </blockquote>
+<blockquote> Projeto para a Disciplina de Aprendizado de Máquina da ILUM - Escola de Ciências </blockquote>
 
 <p align = "justify"> Professores: Daniel Cassar e James Moraes </p>
 <p align = "justify"> Alunos: </p>
 <ul>
   <li> Ana Clara Batista Loponi </li>
   <li> Ana Clara Santos Brandão </li>
-  <li> Heitor Bernardes </li>
-  <li> Lorraine Casseano </li>
+  <li> Heitor Ribeiro Bernardes </li>
+  <li> Lorraine Cristina Silva Casseano </li>
 </ul>
 
 <h3 align = "center"> Guia do Repositório </h3>
 
-<details><summary> notebook_dengue </summary> 
-<p align = "justify"> Dados Coletados 
-<br> - Tratamento dos Dados
-<br> - Normalização
-<br> - Análise dos Dados
-<br> - Matriz Covariância
-<br> - Gráficos
-<br> - Treino, teste e baseline
-<br> - K vizinhos mais próximos
-<br> - Regressão linear
-<br> - Árvore de decisão
-<br> - Floresta aleatória
-<br> - Classificação
+<h5 align = "center"> Blocos de Desenvolvimento </h5>
+
+<details><summary> Análise de Dados - Bloco 1 </summary> 
+<p align = "justify"> Coleta de Dados
+  <a href="#Análise de Dados.ipynb">Bloco 1</a>
+<br> - Breve descrição sobre o projeto, motivação e objetivos;
+<br> - Análise Exploratória do Dados;
+<br> - Métodos de normalização e tratamento do Dataset original;
+<br> - Ferramentas Estatísticas: Matriz de Correlação;
+<br> - Gráficos de Análise;
+<br> - Classificação e Categorização.
+  
+<details><summary> Modelos de Treinamento 1- Bloco 2 </summary> 
+<p align = "justify"> Interpretação e Treino dos Dados
+  <a href="#Modelos de Treinamento .ipynb">Bloco 2</a>
+<br> - Treinando Modelos: Aprendizado Supervisionado;
+<br> - Definindo dataset de Treino e Teste;
+<br> - Baseline;
+<br> - K Vizinhos mais próximos;
+<br> - Regressão Linear;
+<br> - Árvore de Decisão;
+<br> - Floresta Aleatória;
+<br> - Desempenho dos modelos de Regressão;
+<br> - Dados Categóricos;
+<br> - Matriz de Confunsão;
+<br> - Avaliação de Hiperparâmetros.
+  
+<details><summary> Modelos de Treinamento 2 - Bloco 3 </summary> 
+<p align = "justify"> Interpretação e Treino dos Dados
+  <a href="#Modelos de Treinamento_2.ipynb">Bloco 3</a>
+<br> - Aprendizado Não-Supervisionado;
+<br> - Dataset de Treino, Teste e Hiperparâmetros;
+<br> - Transformação PCA;
+<br> - Análise de Features x Componentes;
+<br> - Análise Variância;
+<br> - K-Means;
+<br> - WSS (Within-Cluster-Sum of Squared Errors);
+<br> - LOF (Algoritmo Local Outlier Factor);
+<br> - IF (Algoritmo Isolation Forest).
+
+<details><summary> Validação Cruzada - Bloco 4 </summary> 
+<p align = "justify"> Melhores Técnicas usadas no Dataset
+  <a href="#Validação Cruzada.ipynb">Bloco 4</a>
+<br> - Validação Cruzada;
+<br> - Árvore de Decisão;
+<br> - Modelo K-NN.
+
 </p>
 </details>
+  
+<h5 align = "center"> Banco de Dados </h5>
 
 <details><summary> dataset_dengue </summary>
 <p align = "justify"> Dataset
+  <a href="#dataset_dengue.xlsx">Dataset</a>
+<br> - Data Mensal entre os anos de 1998 à 2014
+<br> - Número de Casos Confirmados 
+<br> - Temperatura Média, Mínima e Máxima
+</p>
+</details>
+  
+<details><summary> dataset_categorico </summary>
+<p align = "justify"> Dataset Categórico
+  <a href="#dataset_dengue_categorico.xlsx">Dataset Categórico</a>
 <br> - Data Mensal entre os anos de 1998 à 2014
 <br> - Número de Casos Confirmados 
 <br> - Temperatura Média, Mínima e Máxima
 </p>
 </details>
 
+<h5 align = "center"> Diários de Bordo </h5>
+  
 <details><summary> DiarioAprendzMaquina </summary>
+    <a href="#DiarioAprendzMaquina">Diários de Bordo - Desenvolvimento Semestral</a>
 <p align = "justify"> Diário de bordo
 <br> - 08_02
 <br> - 08_09
@@ -56,6 +105,14 @@
 <br> - 08_23
 <br> - 08_30
 <br> - 09_13
+  <br> Bloco 3 </br>
 <br> - 09_20
+<br> - 10_04
+<br> - 10_25
+<br> - 11_01
+  <br> Bloco 4 </br>
+<br> - 11_08
+<br> - 11_22
+<br> - 11_29
 </p>
 </details>
