@@ -1,0 +1,18 @@
+Projeto de Aprendizado de Máquina
+2º semestre de 2022
+Grupo formado por:
+    Ana Clara Loponi
+    Ana Clara Brandão
+    Heitor Bernardes 
+    Lorraine Casseano
+
+Dia 22.11
+
+Após 2 semandas sem encontros em sala, devido ao feriado, o grupo se reuniu para discutir sobre a solução dos tópicos propostos no dia 8/11. Dessa forma:
+- Heitor: Conseguiu cumprir com o desenvolvimento do cógico, apesar de dificuldades no ínicio para interpretar o que deveria ser feito.
+- Ana Brandão: Continou a preparação dos slides de apresentação, e dividiu o restante das tarefas faltantes para o grupo, uma vez sendo líder.
+- Ana Loponi: Esperou a demanda dos integrantes do grupo serem cumpridas, para concluir as alterações no git, de forma mais prática e entendível. A partir do feedback
+do professores, ambas as Ana's, pensaram em métodos de organizar o git, separando os blocos/etapas em um processo gradual. Assim, qualquer pessoa é capaz de compreender
+o que está descrito.
+- Lorraine: Continuou o desenvolvimento do documento de discussão dos resultados afim de auxiliar na apresentação, e após o encerramento da disciplinar, tal doc será
+anexado no guia do repositório.
