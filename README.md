@@ -39,7 +39,7 @@
 </details>
   
 <details><summary> Modelos de Treinamento 1 - Bloco 2 </summary> 
-<p align = "justify"> Interpretação e Treino dos Dados
+<p align = "justify"> Interpretação e Treino dos Dados:
   <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Modelos%20de%20Treinamento%20.ipynb"> Bloco 2 </a>
 <br> - Treinando Modelos: Aprendizado Supervisionado;
 <br> - Definindo dataset de Treino e Teste;
@@ -56,7 +56,7 @@
 </details>
   
 <details><summary> Modelos de Treinamento 2 - Bloco 3 </summary> 
-<p align = "justify"> Interpretação e Treino dos Dados
+<p align = "justify"> Interpretação e Treino dos Dados:
   <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Modelos%20de%20Treinamento_2.ipynb"> Bloco 3 </a>
 <br> - Aprendizado Não-Supervisionado;
 <br> - Dataset de Treino, Teste e Hiperparâmetros;
@@ -71,8 +71,8 @@
 </details>
 
 <details><summary> Validação Cruzada - Bloco 4 </summary> 
-<p align = "justify"> Melhores Técnicas usadas no Dataset
-  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Valida%C3%A7%C3%A3o%20Cruzada.ipynb">Bloco 4</a>
+<p align = "justify"> Melhores Técnicas usadas no Dataset:
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/Valida%C3%A7%C3%A3o%20Cruzada.ipynb"> Bloco 4</a>
 <br> - Validação Cruzada;
 <br> - Árvore de Decisão;
 <br> - Modelo K-NN.
