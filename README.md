@@ -28,7 +28,7 @@
 
 <details><summary> Análise de Dados - Bloco 1 </summary> 
 <p align = "justify"> Coleta de Dados
-  <a href="#[Análise de Dados.ipynb](https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/An%C3%A1lise%20de%20Dados.ipynb)">Bloco 1</a>
+  <a href="https://github.com/AnaLoponi/Machine_Learning_Casos_de_Dengue/blob/main/An%C3%A1lise%20de%20Dados.ipynb">Bloco 1</a>
 <br> - Breve descrição sobre o projeto, motivação e objetivos;
 <br> - Análise Exploratória do Dados;
 <br> - Métodos de normalização e tratamento do Dataset original;
@@ -106,16 +106,20 @@
 <p align = "justify"> Diário de bordo
 <br> - 08_02
 <br> - 08_09
+</br>
+  <br> Bloco 2: </br>
 <br> - 08_16
 <br> - 08_23
 <br> - 08_30
 <br> - 09_13
-  <br> Bloco 3 </br>
+</br> 
+  <br> Bloco 3: </br>
 <br> - 09_20
 <br> - 10_04
 <br> - 10_25
 <br> - 11_01
-  <br> Bloco 4 </br>
+</br>
+  <br> Bloco 4: </br>
 <br> - 11_08
 <br> - 11_22
 <br> - 11_29
